@@ -11,5 +11,8 @@ public class A {
 		
 		System.out.println("this is bendi lalal");
 	}
+	
+	
+	lalallalalla
 
 }
