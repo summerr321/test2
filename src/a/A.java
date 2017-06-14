@@ -13,6 +13,8 @@ public class A {
 		
 		System.out.println("这是主分支的");
 		System.out.println("这是dev分支");
+		
+		System.out.println("ni 瀹忓ゥ");
 	}
 
 }
