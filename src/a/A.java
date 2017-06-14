@@ -15,6 +15,8 @@ public class A {
 		System.out.println("这是dev分支");
 		
 		System.out.println("ni 瀹忓ゥ");
+		
+		System.out.println("你知道吧，这么折腾啊");
 	}
 
 }
