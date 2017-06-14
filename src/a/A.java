@@ -11,10 +11,13 @@ public class A {
 		
 		System.out.println("this is bendi lalal");
 		
-		System.out.println("ÕâÊÇÖ÷·ÖÖ§µÄ");
-		System.out.println("ÕâÊÇdev·ÖÖ§");
+		System.out.println("è¿™æ˜¯ä¸»åˆ†æ”¯çš„");
+		System.out.println("è¿™æ˜¯devåˆ†æ”¯");
 		
-		System.out.println("ni å®å¥¥");
+		System.out.println("ni ç€¹å¿“ã‚¥");
+		
+		
+		System.out.println("è¿™æ˜¯ä¸»åˆ†æ”¯çš„22222");
 	}
 
 }
