@@ -12,6 +12,7 @@ public class A {
 		System.out.println("this is bendi lalal");
 		
 		System.out.println("这是主分支的");
+		System.out.println("这是dev分支");
 	}
 
 }
