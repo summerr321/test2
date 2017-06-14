@@ -17,6 +17,7 @@ public class A {
 		System.out.println("ni 瀹忓ゥ");
 		
 		System.out.println("你知道吧，这么折腾啊");
+		System.out.println("杩欐槸涓诲垎鏀殑22222");
 	}
 
 }
